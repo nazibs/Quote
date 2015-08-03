@@ -1,0 +1,7 @@
+E:\hatch'em\app\build\intermediates\classes\debug
+E:\hatch'em\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-366ff4f469bfdf505613cd2186f071afcb88894f.jar
+E:\hatch'em\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-501dcc827d61c9389f57a8aec40c3b805b793676.jar
+E:\hatch'em\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1142ac135ae84302bb9aea0348eacb031d2b96c8.jar
+E:\hatch'em\app\build\intermediates\pre-dexed\debug\classes-3e417f03d1c0bf4f21ca966596877b23527dec6b.jar
+E:\hatch'em\app\build\intermediates\pre-dexed\debug\classes-ecd752f1bf56d47462d24ffc8e8f955a97608207.jar
+E:\hatch'em\app\build\intermediates\pre-dexed\debug\classes-ae9c74cf5f357f65e657154eec7265af9b26e3c1.jar

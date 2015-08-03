@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="all.em.hatch.hatchem.Blocked_Contacts"
+    android:background="#0000">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/back5"
+        android:scaleType="matrix" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/blocked_users_container"
+        android:layout_marginTop="60dp"
+        android:background="#0000">
+    </FrameLayout>
+
+</RelativeLayout>

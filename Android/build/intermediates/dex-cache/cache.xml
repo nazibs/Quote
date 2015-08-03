@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\hatch&apos;em\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\hatch&apos;em\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-501dcc827d61c9389f57a8aec40c3b805b793676.jar" />
+    </item>
+    <item
+        jar="E:\hatch&apos;em\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\hatch&apos;em\app\build\intermediates\pre-dexed\debug\classes-3e417f03d1c0bf4f21ca966596877b23527dec6b.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\hatch&apos;em\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-366ff4f469bfdf505613cd2186f071afcb88894f.jar" />
+    </item>
+    <item
+        jar="E:\hatch&apos;em\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\hatch&apos;em\app\build\intermediates\pre-dexed\debug\classes-ecd752f1bf56d47462d24ffc8e8f955a97608207.jar" />
+    </item>
+    <item
+        jar="E:\hatch&apos;em\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="E:\hatch&apos;em\app\build\intermediates\pre-dexed\debug\classes-ae9c74cf5f357f65e657154eec7265af9b26e3c1.jar" />
+    </item>
+    <item
+        jar="E:\hatch&apos;em\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\hatch&apos;em\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1142ac135ae84302bb9aea0348eacb031d2b96c8.jar" />
+    </item>
+
+</items>

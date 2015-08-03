@@ -1,0 +1,8 @@
+package httppost;
+
+public class test1 {
+
+	
+	
+	Class.forName("com.mysql.jdbc.Driver");
+}

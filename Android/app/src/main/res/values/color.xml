@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="keep">#ffbb33</color>
+    <color name="trans">#5F000000</color>
+    <color name="textview">#f0f0f0</color>
+
+
+
+</resources>
