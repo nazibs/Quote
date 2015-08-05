@@ -7,6 +7,8 @@ import java.util.ArrayList;
 
 /**
  * Created by Lomesh on 3/30/2015.
+ * 
+ * This is the message datastore singleton. Data source is mymessages.json
  */
 public class MyMessage_Store
 {
@@ -20,7 +22,7 @@ public class MyMessage_Store
     {
         mAppContext= appContext;
 
-        //mMessages= new ArrayList<BroadcastMessage>();
+       
 
         Log.i("MYMESSAGE STORE", "IN THE CONSTRUCTOR");
         mSerializer= new MyMessage_Json_Serializer(mAppContext, "mymessages.json");
