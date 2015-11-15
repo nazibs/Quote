@@ -38,14 +38,6 @@ public class Splash_Screen extends ActionBarActivity {
             }
         }, 1000 );
 
-
-
-
-
-
-
     }
-
-
 
 }
